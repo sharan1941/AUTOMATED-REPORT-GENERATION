@@ -24,3 +24,5 @@ Following the detailed sales table, the script adds a summary section with the c
 Finally, the script saves the entire report as a PDF file named report.pdf on the local disk and prints a confirmation message to indicate successful generation. This script is practical for anyone needing automated report creation from raw sales data, and it demonstrates the combined use of Python’s standard library andan external PDF generation package to handle data reading, processing, and formatted output creation. The modularity and simplicity of the code allow easy customization for different datasets or report formats, making it a versatile tool for generating professional sales reports quickly and efficiently.
 
 OUTPUT
+
+![Image](https://github.com/user-attachments/assets/ceb77296-5b23-45f6-a877-1a4024d607b7)
